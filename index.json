@@ -1,0 +1,92 @@
+[
+    {
+        "firstName":"Matthew",
+        "lastName":"Brown",
+        "favHobby":"Squash",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carname":"Vroom Vroom",
+                "enginCapacity":2,
+                "model":"Cardboard Box"
+            },
+            {
+                "carname":"Zoom Zoom",
+                "enginCapacity":1,
+                "model":"Plastic Box"
+            }
+        ]
+    },
+    {
+        "firstName":"Luke",
+        "lastName":"Smart",
+        "favHobby":"Fishing",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carname":"VW",
+                "enginCapacity":2,
+                "model":"Citi Golf"
+            },
+            {
+                "carname":"Nissan",
+                "enginCapacity":1,
+                "model":"s14"
+            }
+        ]
+    },
+    {
+        "firstName":"Rafiek",
+        "lastName":"Booysen",
+        "favHobby":"Socer",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carname":"Audi",
+                "enginCapacity":3,
+                "model":"V8"
+            },
+            {
+                "carname":"Toyota HiluX",
+                "enginCapacity":2.8,
+                "model":"GD6"
+            }
+        ]
+    },
+    {
+        "firstName":"Raeesa",
+        "lastName":"Behariden",
+        "favHobby":"reading",
+        "criminal":true,
+        "dreamCars":[
+            {
+                "carname":"hyundai",
+                "enginCapacity":1,
+                "model":"I10"
+            },
+            {
+                "carname":"Toyota Cross",
+                "enginCapacity":3,
+                "model":"2024"
+            }
+        ]
+    },
+    {
+        "firstName":"Juan",
+        "lastName":"Adams",
+        "favHobby":"Fishing",
+        "criminal":false,
+        "dreamCars":[
+            {
+                "carname":"Mercedes",
+                "enginCapacity":2,
+                "model":"G63"
+            },
+            {
+                "carname":"Nissan",
+                "enginCapacity":3,
+                "model":"KP300"
+            }
+        ]
+    }
+]
